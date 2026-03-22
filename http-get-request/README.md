@@ -8,7 +8,7 @@
 
 ## Practical Analysis
 
-![Network](./images/network.png)
+![image alt](https://github.com/vaibhavattree17/Tryhackme-Labs/blob/main/http-get-request/network.png?raw=true)
 
 - Multiple GET requests observed:
   - index.html

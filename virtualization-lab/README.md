@@ -10,8 +10,12 @@ A completed lab simulating real-world virtualization management tasks using **Vi
 ## 🔍 Task 1 — Incident Response: Email Outage
 Investigated why all employees stopped receiving emails. Found the `Mail-SERVER` VM in an **Error** state. Restarted it via the dashboard, restoring email service.
 
+![Lab Screenshot](https://github.com/vaibhavattree17/Tryhackme-Labs/blob/main/virtualization-lab/Lab%20screenshot%201.png?raw=true)
+
 ## 🚀 Task 2 — Provisioning a New VM
 Created `Marketing-VM` with: CPU 4 cores, Memory 8 GB, Disk 100 GB.
+
+
 
 ## 📊 Task 3 — Host Health Monitoring
 - `HV-PROD-01` — CPU 45%, Storage 72%, Memory 68% → Capacity available

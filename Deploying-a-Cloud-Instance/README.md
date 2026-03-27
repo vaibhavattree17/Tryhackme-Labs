@@ -10,7 +10,7 @@ This repository documents my hands-on lab from TryHackMe focused on deploying an
 > **Platform:** TryHackMe  
 > **Task:** Deploying a Cloud Instance  
 > **Completion:** 100% ✅
-
+![Billing Analysis](screenshots/billing-analysis.png)
 ---
 
 ## 🧠 Concepts Learned

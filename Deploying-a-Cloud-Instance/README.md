@@ -12,7 +12,7 @@ This repository documents my hands-on lab from TryHackMe focused on deploying an
 > **Completion:** 100% ✅
 ![Billing Analysis](https://github.com/vaibhavattree17/Tryhackme-Labs/blob/main/Deploying-a-Cloud-Instance/Screenshot%202026-03-27%20232836.png?raw=true)
 ---
-![Billing Analysis](https://github.com/vaibhavattree17/Tryhackme-Labs/blob/main/Deploying-a-Cloud-Instance/Screenshot%202026-03-27%20232836.png?raw=true)
+![Billing Analysis](https://github.com/vaibhavattree17/Tryhackme-Labs/blob/main/Deploying-a-Cloud-Instance/Screenshot%202026-03-27%20232853.png?raw=true)
 ## 🧠 Concepts Learned
 
 ### What is EC2?

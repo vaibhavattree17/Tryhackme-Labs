@@ -23,7 +23,7 @@ A beginner-friendly lab focused on gaining unauthorized access to a Linux system
 | `cat FILENAME` | Display contents of a file |
 | `history` | Show previously executed commands |
 | `su - USERNAME` | Switch to another user account |
-
+![AttackBox](https://github.com/vaibhavattree17/Tryhackme-Labs/blob/main/OS%20Security%20/images/Screenshot%202026-04-03%20172327.png?raw=true)
 ---
 
 ## Attack Walkthrough
@@ -37,7 +37,7 @@ ssh sammie@MACHINE_IP
 # Accept the ECDSA fingerprint warning (type: yes)
 # Enter password: dragon (invisible while typing)
 ```
-
+![AttackBox](https://github.com/vaibhavattree17/Tryhackme-Labs/blob/main/OS%20Security%20/images/Screenshot%202026-04-03%20172342.png?raw=true)
 ### Step 2: Enumerate the System
 ```bash
 whoami        # confirms: sammie
@@ -59,7 +59,7 @@ ssh johnny@MACHINE_IP
 su - johnny
 ```
 Manually try common passwords to gain access.
-
+![AttackBox](https://github.com/vaibhavattree17/Tryhackme-Labs/blob/main/OS%20Security%20/images/Screenshot%202026-04-03%20172352.png?raw=true)
 ---
 
 ## Key Takeaways

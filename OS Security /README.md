@@ -12,7 +12,7 @@ A beginner-friendly lab focused on gaining unauthorized access to a Linux system
 - Attempt privilege escalation by guessing passwords for other users
 
 ---
-
+ 
 ## Commands Used
 
 | Command | Description |

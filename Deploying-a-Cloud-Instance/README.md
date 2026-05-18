@@ -5,7 +5,7 @@
 
 ## 📌 Overview
 
-This repository documents my hands-on lab from TryHackMe focused on deploying and managing cloud infrastructure using a simulated AWS-like console. The goal of the exercise was to understand how cloud resources are created, managed, and billed — core skills for anyone working in cybersecurity or cloud environments.
+This repository documents my hands-on lab from TryHackMe focused on deploying and managing cloud infrastructure using a simulated AWS-like console. The goal of the exercise was to understand how cloud resources are created, managed, and billed — core skills for anyone working in cybersecurity or cloud environment
 
 > **Platform:** TryHackMe   
 > **Task:** Deploying a Cloud Instance   
